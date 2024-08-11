@@ -71,7 +71,4 @@ app.post('/register',async(req, res) => {
     }
 })
 
-
-
-
 // export default express
